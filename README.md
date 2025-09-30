@@ -7,7 +7,7 @@ The goal is to provide a structured, practical guide that progresses from basic 
 
 ## 📚 Table of Contents
 
-## [0. Introduction](./0-Basics)
+## [0. Introduction](./0_intro_env_setup.ipynb)
 - Python Installation (Anaconda, venv, pip)
 - Virtual Environments (venv, conda)
 - Package Management (pip, pipx, poetry)
@@ -17,7 +17,7 @@ The goal is to provide a structured, practical guide that progresses from basic 
 
 ---
 
-## [1. Python Fundamentals](./1-Fundamentals/)
+## [1. Python Fundamentals](./01_python_fundamentals.ipynb)
 - Basic Syntax and Comments
 - Native Data Types: `int`, `float`, `bool`, `str`
 - Type Conversion
@@ -38,7 +38,7 @@ The goal is to provide a structured, practical guide that progresses from basic 
 
 ---
 
-## 2. Advanced Data Handling
+## [2. Advanced Data Handling](./02_advanced_data_handling.ipynb)
 - List, Dictionary, and Set Comprehensions
 - Generators and Generator Expressions
 - String Manipulation:
@@ -55,7 +55,7 @@ The goal is to provide a structured, practical guide that progresses from basic 
 
 ---
 
-## 3. Object-Oriented Programming (OOP)
+## [3. Object-Oriented Programming (OOP)](./03_OOP.ipynb)
 - Classes and Objects
 - Attributes and Methods
 - Encapsulation and Access Modifiers
@@ -69,7 +69,7 @@ The goal is to provide a structured, practical guide that progresses from basic 
 
 ---
 
-## 4. Advanced Functions & Control
+## [4. Advanced Functions & Control](./04_advanced_functions_and_control.ipynb)
 - Anonymous Functions (`lambda`)
 - `map`, `filter`, `reduce`
 - Decorators and Higher-Order Functions
